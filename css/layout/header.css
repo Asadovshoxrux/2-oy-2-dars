@@ -1,0 +1,233 @@
+
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+header{
+   
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.card3{
+    font-size: 100px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.plogo{
+    font-size: 30px;
+    padding-bottom: 10px;
+    color: gray;
+}
+.btn{
+    background-color: black;
+    color: white;
+    width: 250px;
+    height: 40px;
+    border: none;
+    border-radius: 50px;
+    margin-left: 90px;
+    transition: 2s;
+}
+.btn:hover{
+   background-color: aqua;
+   transform: scale(1.2);
+  
+}
+
+.bero{
+    display: flex;
+    gap: 20px;
+}
+.heroi:hover{
+    transform: scale(1.2);
+}
+.heroi{
+    transition: 2s;
+}
+.h1cards{
+    font-size: 50px;
+    padding: 20px;
+    margin-left: 450px;
+}
+.imgh{
+    width: 400px;
+    transition: 1s;
+}
+.imgh:hover{
+    transform: scale(1.2);
+}
+.bertu{
+    background-color: rgb(220, 220, 212);
+    width: 400px;
+    border-radius: 15px;
+}
+.retro{
+    font-size: 45px;
+    margin-left: 80px;
+    padding-bottom: 10px;
+}
+.pheroi{
+    color: gray;
+    padding-bottom: 10px;
+    margin-left: 50px;
+}
+.btn2{
+    background-color: rgb(47, 46, 46);
+    color: white;
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 50px;
+    transition: 1s;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.btn2:hover{
+    background-color: rgb(232, 194, 180);
+    color: black;
+    transform: scale(1.2);
+}
+.cards{
+    display: flex;
+    gap: 30px;
+}
+.h1hero{
+    font-size: 40px;
+margin-top: 80px;
+    padding: 20px;
+    margin-left: 30px;
+}
+.herout{
+    color: gray;
+    margin-left: 20px;
+}
+.hwer{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.h1er{
+    color: gray;
+    margin-left: 20px;
+}
+.dert{
+    display: flex;
+   gap: 80px;
+ margin-top: -200px;
+}
+.hero-1{
+    display: flex;
+}
+.ferw{
+    margin-left: 20px;
+    transition: 1.2s;
+}
+.ferw:hover{
+    transform: scale(1.2);
+}
+.hoverd{
+    padding-top: 150px;
+    display: flex;
+    gap: 30px;
+}
+.hertv{
+    color: gray;
+    margin-left: 25px;
+}
+.btnr{
+    background-color: gray;
+    color: white;
+    width: 200px;
+    border: none;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    transition: 1s;
+}
+.wader{
+    box-shadow: 1px 1px 10px gray;
+    width: 400px;
+    border-radius: 15px;
+    transition: 1s;
+}
+.gerw{
+    margin-left: 20px;
+    padding: 15px;
+}
+.imgt{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.wader:hover{
+transform: scale(0.9);
+}
+.btnr:hover{
+    background-color: black;
+    transform: scale(1.2);
+}
+.fer{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+.xaw{
+ width: 400px;
+ height: 40px;
+ padding-left: 10px;
+ border-radius: 15px;
+}
+.cardsr{
+    display: flex;
+    padding-top: 150px;
+    gap: 60px;
+}
+.bvbv{
+    color: gray;
+    margin-bottom: 50px;
+}
+.imhgi{
+    margin-left: 40px;
+transition: 1s;
+margin-bottom: 300px;
+}
+.imhgi:hover{
+    transform: scale(0.9);
+box-shadow: 1px 1px 5px gray;
+border-radius: 15px;
+border: none;
+}
+.bitn{
+    color: white;
+    background-color: #263238;
+    width: 264px;
+    height: 40px;
+margin-top: 210px;
+border-radius: 15px;
+border: none;
+transition: 0.9;
+}
+.bitn:hover{
+    color: rgb(15, 16, 16);
+    background-color: rgb(224, 235, 159);
+    transform: scale(1.1);
+}
+.bqa{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+
+}
